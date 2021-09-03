@@ -1,0 +1,1 @@
+Data was received through RIOT Games' API.
